@@ -1,4 +1,61 @@
-# Welcome to your Expo app 👋
+# 📋 Task Manager App
+
+A simple and powerful Task Management App built with **React Native** and **Firebase**. Manage your daily tasks with ease — create, update, filter, and organize them based on priority and status.
+
+---
+
+## 🚀 Features
+
+### 🔐 User Authentication
+
+- ✅ Email/Password based Sign Up and Login using **Firebase Authentication**
+- ❌ Displays error messages for invalid credentials (e.g., incorrect email/password)
+- 🔓 Persistent login using Firebase session handling
+
+### 📝 Task Management
+
+- ➕ Add new tasks with:
+  - Title
+  - Description
+  - Due Date (using Date Picker)
+  - Priority (Low, Medium, High)
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- ✅ Mark tasks as Complete/Incomplete
+
+### 🔍 Task Filtering
+
+- Filter tasks by:
+  - ✅ Priority: Low / Medium / High
+  - ✅ Status: Completed / Incomplete
+- Tasks sorted by **Due Date (earliest to latest)**
+
+### 📆 Calendar Integration (Optional)
+
+- View tasks on a calendar-based view (if implemented)
+
+### 👤 Profile Page
+
+- View/edit profile info
+- Log out
+
+---
+
+## 🖼️ Screenshots
+
+| Login | Signup | Task List |
+|-------|--------|-----------|
+| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) | ![Task List](screenshots/tasklist.png) |
+
+| Add/Edit Task | Calendar View | Profile Page |
+|---------------|---------------|---------------|
+| ![Add Task](screenshots/addtask.png) | ![Calendar](screenshots/calendar.png) | ![Profile](screenshots/profile.png) |
+
+> 📌 Replace the `screenshots/*.png` paths with your actual image files in a `/screenshots` directory.
+
+---
+
+## 📂 Project Structure
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
