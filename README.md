@@ -45,7 +45,7 @@ A simple and powerful Task Management App built with **React Native** and **Fire
 
 | Login | Signup | Task List |
 |-------|--------|-----------|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) | ![Task List](screenshots/tasklist.png) |
+| ![Login](screenshots/login.jpg) | ![Signup](screenshots/signup.png) | ![Task List](screenshots/tasklist.png) |
 
 | Add/Edit Task | Calendar View | Profile Page |
 |---------------|---------------|---------------|
