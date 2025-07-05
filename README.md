@@ -22,6 +22,7 @@ A simple and powerful Task Management App built with **React Native** and **Fire
 - ✏️ Edit existing tasks
 - 🗑️ Delete tasks
 - ✅ Mark tasks as Complete/Incomplete
+- Stores Data in firebase and uses Zustand for state Management
 
 ### 🔍 Task Filtering
 
@@ -30,9 +31,9 @@ A simple and powerful Task Management App built with **React Native** and **Fire
   - ✅ Status: Completed / Incomplete
 - Tasks sorted by **Due Date (earliest to latest)**
 
-### 📆 Calendar Integration (Optional)
+### 📆 Calendar Integration
 
-- View tasks on a calendar-based view (if implemented)
+- View tasks on a calendar-based view.
 
 ### 👤 Profile Page
 
@@ -53,6 +54,7 @@ A simple and powerful Task Management App built with **React Native** and **Fire
     <td><img src="screenshots/login.jpg" width="200"/></td>
     <td><img src="screenshots/register.jpg" width="200"/></td>
     <td><img src="screenshots/task_list.jpg" width="200"/></td>
+    <td><img src="screenshots/filter.jpg" width="200"/></td>
   </tr>
 </table>
 
@@ -71,10 +73,17 @@ A simple and powerful Task Management App built with **React Native** and **Fire
   </tr>
 </table>
 
+## 🎥 Video Demo
+
+[▶️ Watch Demo Video on Google Drive]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing](https://drive.google.com/file/d/1z5M3TVBS-L8xOQCVjMagVBkvm66rp_1K/view?usp=sharing))
+
+> ⚠️ **Note:**  
+> The APK build was not included in the project because of an error during conversion.  
+> Additionally, the video demo might appear stuck or frozen at the login screen — this is due to Android security restrictions that **prevent screen recording while entering passwords or sensitive input fields**.
+
+
 
 ---
-
-## 📂 Project Structure
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
