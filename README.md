@@ -49,6 +49,7 @@ A simple and powerful Task Management App built with **React Native** and **Fire
     <th>Login</th>
     <th>Signup</th>
     <th>Task List</th>
+    <th>Filter Tasks</th>
   </tr>
   <tr>
     <td><img src="screenshots/login.jpg" width="200"/></td>
@@ -73,21 +74,25 @@ A simple and powerful Task Management App built with **React Native** and **Fire
   </tr>
 </table>
 
+---
+
 ## 🎥 Video Demo
 
-[▶️ Watch Demo Video on Google Drive]([https://drive.google.com/file/d/YOUR_VIDEO_ID/view?usp=sharing](https://drive.google.com/file/d/1z5M3TVBS-L8xOQCVjMagVBkvm66rp_1K/view?usp=sharing))
+[▶️ Watch Demo Video on Google Drive](https://drive.google.com/file/d/1z5M3TVBS-L8xOQCVjMagVBkvm66rp_1K/view?usp=sharing)
 
-> ⚠️ **Note:**  
-> The APK build was not included in the project because of an error during conversion.  
-> Additionally, the video demo might appear stuck or frozen at the login screen — this is due to Android security restrictions that **prevent screen recording while entering passwords or sensitive input fields**.
+### ⚠️ Important Note
 
-
+> ❗**APK Not Included**  
+> The APK build was not included due to errors encountered during the build process.
+>
+> 🔒**Login Screen Freeze in Demo**  
+> The video demo may appear stuck on the login screen. This is because **Android restricts screen recording during password entry** to protect user privacy. The app continues to work, but the recording is paused automatically during sensitive input.
 
 ---
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## 🛠️ Get Started
 
 1. Install dependencies
 
