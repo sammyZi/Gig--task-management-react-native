@@ -65,9 +65,9 @@ A simple and powerful Task Management App built with **React Native** and **Fire
     <th>Profile Page</th>
   </tr>
   <tr>
-    <td><img src="screenshots/addtask.png" width="200"/></td>
-    <td><img src="screenshots/calendar.png" width="200"/></td>
-    <td><img src="screenshots/profile.png" width="200"/></td>
+    <td><img src="screenshots/add_edit.jpg" width="200"/></td>
+    <td><img src="screenshots/calendar.jpg" width="200"/></td>
+    <td><img src="screenshots/profile.jpg" width="200"/></td>
   </tr>
 </table>
 
