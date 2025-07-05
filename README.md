@@ -43,15 +43,34 @@ A simple and powerful Task Management App built with **React Native** and **Fire
 
 ## 🖼️ Screenshots
 
-| Login | Signup | Task List |
-|-------|--------|-----------|
-| ![Login](screenshots/login.jpg) | ![Signup](screenshots/signup.png) | ![Task List](screenshots/tasklist.png) |
+<table>
+  <tr>
+    <th>Login</th>
+    <th>Signup</th>
+    <th>Task List</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/login.jpg" width="200"/></td>
+    <td><img src="screenshots/register.jpg" width="200"/></td>
+    <td><img src="screenshots/task_list.jpg" width="200"/></td>
+  </tr>
+</table>
 
-| Add/Edit Task | Calendar View | Profile Page |
-|---------------|---------------|---------------|
-| ![Add Task](screenshots/addtask.png) | ![Calendar](screenshots/calendar.png) | ![Profile](screenshots/profile.png) |
+<br/>
 
-> 📌 Replace the `screenshots/*.png` paths with your actual image files in a `/screenshots` directory.
+<table>
+  <tr>
+    <th>Add/Edit Task</th>
+    <th>Calendar View</th>
+    <th>Profile Page</th>
+  </tr>
+  <tr>
+    <td><img src="screenshots/addtask.png" width="200"/></td>
+    <td><img src="screenshots/calendar.png" width="200"/></td>
+    <td><img src="screenshots/profile.png" width="200"/></td>
+  </tr>
+</table>
+
 
 ---
 
